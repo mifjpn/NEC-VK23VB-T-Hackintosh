@@ -17,5 +17,10 @@ This laptop computer works as Mac Book Pro 13.1 up to macOS Monterey.
 
 ## Ventura(Developers Beta)〜
 This laptop computer works as Mac Book Pro 14.1 up to macOS Monterey.
-Since it uses the function of WhatEverGreen that disguises Skylake as Kabylake, it cannot coexist with the past OS.
+Since it uses the function of WhatEverGreen that disguises Skylake as Kabylake. 
+
+## Sonoma(Develipers Beta)~
+This laptop computer works as Mac Book Pro 15.1 up to macOS Monterey.
+Since it uses the function of WhatEverGreen that disguises Skylake as Kabylake,
+it cannot coexist with the past OS.
 If you want them to coexist, you have to use a preselector like rEFInd.
